@@ -1,0 +1,19 @@
+{
+  "name": "jestanotherrpg",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryobia/JestanotherRPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryobia/JestanotherRPG/issues"
+  },
+  "homepage": "https://github.com/Ryobia/JestanotherRPG#readme"
+}
